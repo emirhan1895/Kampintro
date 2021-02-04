@@ -22,7 +22,7 @@ namespace ClassIntro
             Kurs kurs3 = new Kurs();
             kurs3.KursAdi = "Python";
             kurs3.Egitmen = "Berkay Bilgin";
-            kurs3.IzlenmeOrani = 80;
+            kurs3.IzlenmeOrani = 80;  
 
 
 
